@@ -1,4 +1,4 @@
-# DESS-Machine-learning
+# DESS-Machine-Learning
 Material from courses taken duiring my studies
 
 IFT 6135 W24 - Representation Learning : Deep Learning
